@@ -37,7 +37,3 @@ python main.py
 - `main.py`: Main application file
 - `db_connection.py`: Database connection and operations
 - `schema.py`: Database schema definitions
-
-## License
-
-[Add your license information here] 
